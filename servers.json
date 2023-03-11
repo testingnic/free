@@ -1,10 +1,5 @@
 [
     {
-        "host": "128.254.207.133",
-        "image": "us.png",
-        "name": "v2ray v1"
-    },
-    {
         "host": "162.212.154.51",
         "image": "us.png",
         "name": "work new version"
